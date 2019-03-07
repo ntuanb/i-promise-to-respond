@@ -1,0 +1,8 @@
+{
+  "name": "i-promise-to-respond",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ntuanb/i-promise-to-respond.git",
+  "author": "Tuan Bui <tuan.bui@intrepidtravel.com>",
+  "license": "MIT"
+}

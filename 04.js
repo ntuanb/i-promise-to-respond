@@ -26,20 +26,18 @@ getSomethingFromPublicApi();
 /**
  * Try catch
  */
+// function _fetch2() {
+//   return new Promise((resolve, reject) => {
+//     reject('{ "error": "Something happened..." }');
+//   })
+// }
 
+// async function getSomethingFromPublicApi2() {
+//   try {
+//     let result = await _fetch2();
+//   } catch (e) {
+//     console.log(e)
+//   }
+// }
 
-function _fetch2() {
-  return new Promise((resolve, reject) => {
-    reject('{ "error": "Something happened..." }');
-  })
-}
-
-async function getSomethingFromPublicApi() {
-  try {
-    let result = await _fetch();
-  } catch (e) {
-    console.log(e)
-  }
-}
-
-getSomethingFromPublicApi();
+// getSomethingFromPublicApi2();

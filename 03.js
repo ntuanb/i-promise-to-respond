@@ -56,9 +56,9 @@ let fetchFromDisney = () => {
 }
 
 Promise.all([
-  fetchFromGoogle(),
-  fetchFromFacebook(),
-  fetchFromDisney()
+  fetchFromGoogle('https://google.com/json'),
+  fetchFromFacebook('https://facebook.com/json'),
+  fetchFromDisney('https://disney.com/json')
 ])
 .then(results => {
   console.log(results);

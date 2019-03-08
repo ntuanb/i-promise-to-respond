@@ -23,6 +23,8 @@ async function getSomethingFromPublicApi() {
 
 getSomethingFromPublicApi();
 
+console.log('Hello');
+
 /**
  * Try catch
  */

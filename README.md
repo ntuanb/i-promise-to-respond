@@ -8,7 +8,7 @@ A demo of how promises work for the team.
 
 ### Run
 
-Run each of the following commands to see the output of each command.
+Run each of the following commands to see the output of each test.
 
 - `node 01`
 - `node 02`

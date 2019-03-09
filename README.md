@@ -8,6 +8,9 @@ A demo of how promises work for the team.
 
 ### Run
 
-- node 01
-- node 02
-- node 03
+Run each of the following commands to see the output of each command.
+
+- `node 01`
+- `node 02`
+- `node 03`
+- `node 04`
